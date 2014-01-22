@@ -66,7 +66,7 @@ https://github.com/traviscross/yealink-keycrack
 References
 ----------
 
-[ how to generate keys securely ]
-[ why ECB mode is not a good idea ]
-[ key wrapping encryption modes ]
-[ LFSR ]
+* [ how to generate keys securely ]
+* [ why ECB mode is not a good idea ]
+* [ key wrapping encryption modes ]
+* [ LFSR ]
