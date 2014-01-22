@@ -54,8 +54,9 @@ A real solution to the zero-touch provisioning problem
 
 [ Describe a TPM-based solution where the manufacturer acts as a CA
 and signs the public cert of each phone.  The CN would contain the MAC
-address.  A service provider knowing just the MAC to expect could then
-verify that the phone is authentic. ]
+address.  A service provider knowing just the MAC to expect (and the
+manufacturer's public key) could then verify that the phone is
+authentic. ]
 
 See also
 --------
